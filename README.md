@@ -25,8 +25,9 @@
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Django
 <br>🔸 Security
-<br>🔸 JavaScript
 <br>🔸 Networks
+<br>🔸 JavaScript
+<br>🔸 Haskell
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
