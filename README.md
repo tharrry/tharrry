@@ -16,14 +16,14 @@
 ## 🧑 About me:
 
 <p>
-  I am a CS student at Radboud University aiming to learn new technologies and build fun stuff with it.
+  I am a BSc Computing Science currently persuing my MSc in Amsterdam aiming to learn new technologies and build fun stuff with it.
   I produce <b>high-quality</b> code for frontend and backend.
   I have a <b>problem solving</b> and <b>dedicated</b> personality. I will look for and find a way.
   Excellent <b>team player</b> and competent <b>team leader</b>.
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Django
+<p>🔸 Python
 <br>🔸 Security
 <br>🔸 Networks
 <br>🔸 JavaScript
