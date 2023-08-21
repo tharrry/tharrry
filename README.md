@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  Security | CS Student | Software Engineering
+  Software Engineering || Cyber Security
 </h4>
 
 <!-- <p align="center">
@@ -16,9 +16,11 @@
 ## 🧑 About me:
 
 <p>
-  I am a BSc Computing Science currently persuing my MSc in Amsterdam aiming to learn new technologies and build fun stuff with it.
+  I studied Computing Science (BSc) and Software Engineering (UvA), love to code, love to learn even more.
+  Gaming with buddie, coding with pals, cooking with my partner.
+  Afterall, recipes are just culinary algorithms.
   I produce <b>high-quality</b> code for frontend and backend.
-  I have a <b>problem solving</b> and <b>dedicated</b> personality. I will look for and find a way.
+  I have a <b>problem solving</b> mindest and a <b>dedicated</b> personality. I will look for and find a way.
   Excellent <b>team player</b> and competent <b>team leader</b>.
 </p>
 
